@@ -1,0 +1,256 @@
+/* Herramientas Rápidas*/
+
+/* Centrado */
+
+.centrado{
+    text-align: center;
+}
+/* Derecha */
+
+.Derecha{
+    float:left;
+}
+
+/* Color de Body */
+
+body{
+    background-color: #52B69A;
+       
+    
+    }
+    /* Título */
+
+h2 {
+        font-family: 'modern_sanslight';
+        font-size: 20px;
+        Color:rgb(38, 38, 38);
+        margin-left: -6px;
+        margin-top: 20px;
+       
+    
+
+        
+    }
+    .A{
+        margin-bottom: -20px;
+    }
+   
+    
+    /* Header */
+
+    /* Emergencias */
+   
+    #EME{
+        background-color: #34A0A4;
+        margin-top: 7px;
+        margin-left: -51px;
+    }
+    /* Barra de Nav */
+
+    header{
+    height: 65px;
+    background-color: rgba(151, 190, 230, 0.489);
+}
+   
+nav ul{
+    float: right;
+    margin-right: 20px;
+    padding: 20px
+    
+}
+ /* Botones Nav */
+
+ nav ul button a {
+       display: inline-block;
+       text-decoration: none;
+       margin:0.5%;
+       
+   }
+ .btn  {
+    background-color: #184E77;
+ }
+  
+
+a{
+    color: whitesmoke;
+}
+ .btn:hover{
+    background-color: #4895EF;
+    transition-duration: 0.5s;
+    font-size: 17px;
+ }
+    
+a:hover{
+    color: #666;
+    
+}
+
+
+/* Lema */
+
+h1{
+    font-family: 'Concert One';
+    font-size: 60px;
+    color: whitesmoke;
+   margin-top: 65px;
+   margin-left: -16px;
+}
+/* Imagenes */
+.Cuerpo img{
+    position:absolute;
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+.Vector{
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 50px;
+
+
+}
+.img{
+    float: left;
+   margin-top: 86px; 
+   margin-left: 17px;
+       
+        
+}
+ /* 2da Pantalla */
+ 
+ /* Color de body */
+
+ .Sectioncolor2{
+    background-color: #1f9b78;
+}
+ /* Titulo */
+
+ #title2{
+    font-size: 45px;
+}
+/* Tarjetas */
+
+#card{
+    float:right;
+}
+.card{
+    background: #168aadba;
+    color: whitesmoke;
+    margin-top: 70px;
+    margin-left: 15px;
+    border-radius: 20px;
+    padding: 10px;   
+
+}
+.card2{
+    background: #e56b6f;
+    color: whitesmoke;
+    margin-top: 70px;
+    margin-left:60px ;
+    border-radius: 20px;
+    padding: 10px;
+   
+}
+.card-text2{
+    margin-bottom: 40px;
+}
+
+.card3{
+    background: #06e6a7;
+    color: whitesmoke;
+    margin-top: 70px;
+    margin-left: 120px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.card-text3{
+    margin-bottom: 40px;
+}
+/* Acesso Rápido desde Footer */
+
+.ListaFooter{
+    color: whitesmoke;
+    font-family: 'Concert One';
+    
+}
+ .ListaFooter a {
+    text-decoration: none;
+    
+    
+}
+div .ListaFooter li{
+    margin-top: 20px;
+}
+/* Cuadro con medios de contacto*/
+
+.card4{
+    background: #168aadba;
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 20px;
+    padding : 10px;
+    transition: width 2s, height 2s, transform 1s;
+      }
+      
+    .card4:hover {
+        transform: rotate(6deg);
+      }
+    
+
+
+/* Pagina TURNOS */
+
+/* Título */
+nav .At{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top:-50px;
+}
+/* Botón de home */
+
+#BotónHome{
+    margin-left: 90%;
+    margin-top:20px;
+}
+/* Tarjeta principal */
+
+.card-titlet{
+    color: #d00000;
+    font-size: 30px;
+}
+.card-textt{
+    font-size: 20px;;
+}
+ /*Página NOTICIAS*/
+ nav .TitleN{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top:-50px;
+    
+ }
+ .Noti{
+     background-color:#e63946 ;
+ }
+  /*Footer*/
+  footer{
+      background-color:rgb(23, 22, 22);
+      height: 40px;
+      color:blanchedalmond;
+      
+  }
+ 
+.modal{
+    background-color: #52B69A
+}
+
+.modal-content{
+    background-color: #219ebc;
+}
+.form-control{
+    background-color: #ffe8d6;
+}
+.btn btn-primary{
+margin-right: 50%;
+}
