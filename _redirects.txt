@@ -1,28 +1,31 @@
 
 [[redirects]]
-  from = "/Home.html"
-  to = "/Contacto.html"
+  from = "../Portfolio/Home.html"
+  to = "../Portfolio/Turnos.html"
   status = 301
   force = false
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["EN"], Role = ["admin"]}
+
 [[redirects]]
-  from = "/Home.html"
-  to = "/Noticias.html"
+  from = "../Portfolio/Home.html"
+  to = "../Portfolio/Noticias.html"
   status = 301
   force = false
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["EN"], Role = ["admin"]}
+
 [[redirects]]
-  from = "/Noticias.html"
-  to = "/Home.html"
+  from = "../Portfolio/Noticias.html"
+  to = "../Portfolio/Home.html"
   status = 301
   force = false
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["EN"], Role = ["admin"]}
+
 [[redirects]]
-  from = "/Contacto.html"
-  to = "/Home.html"
+  from = "../Portfolio/Contacto.html"
+  to = "../Portfolio/Home.html"
   status = 301
   force = false
   query = {path = ":path"}
